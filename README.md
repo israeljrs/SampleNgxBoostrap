@@ -1,6 +1,6 @@
 # SampleNgx
 
-Este é um projeto de exemplo que acompanh o artigo.
+Este é um projeto de exemplo que acompanha o artigo [Angular 4 com o ngx-bootstrap](https://medium.com/aprendajs/angular-4-com-o-ngx-bootstrap-862f658c58c8).
 
 ## Instalando o projeto
 
